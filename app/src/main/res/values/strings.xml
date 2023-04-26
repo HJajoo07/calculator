@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="dot">.</string>
+    <string name="signed">+/-</string>
+    <string name="addition">+</string>
+    <string name="subtraction">-</string>
+    <string name="multiplication">x</string>
+    <string name="divide">/</string>
+    <string name="equal">=</string>
+    <string name="backspace_calculator">backspace</string>
+    <string name="backspace"><![CDATA[<---]]></string>
+    <string name="do_calculation">Do calculation</string>
+</resources>
